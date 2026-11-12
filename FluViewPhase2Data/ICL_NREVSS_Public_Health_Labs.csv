@@ -1,0 +1,7 @@
+"*Beginning for the 2015-16 season, reports from public health and clinical laboratories are presented separately in the weekly influenza update, FluView.  Data presented from public health laboratories include the weekly total number of specimens tested, the number of positive influenza tests, and the number by influenza virus type, subtype, and influenza B lineage."
+REGION TYPE,REGION,SEASON_DESCRIPTION,TOTAL SPECIMENS,A (2009 H1N1),A (H3),A (Subtyping not Performed),B,BVic,BYam,H3N2v,A (H5)
+States,New York,Season 2020-21,56559,2,2,1,7,0,0,0,0
+States,New York,Season 2021-22,92963,4,221,389,5,0,0,0,0
+States,New York,Season 2022-23,25846,105,442,461,44,9,0,0,0
+States,New York,Season 2023-24 ,12332,710,256,290,45,92,0,0,0
+States,New York,Season 2024-25,11208,3478,2431,630,47,103,0,0,0

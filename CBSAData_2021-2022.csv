@@ -1,0 +1,674 @@
+CBSA_ID,CBSA NAME,CBSA,ACTIVITY LEVEL,ACTIVITY LEVEL LABEL,WEEKEND,WEEK,SEASON
+716,"Aberdeen, SD",10100,Level Level 4,Low,undefined,51,2021-22
+137,"Aberdeen, WA",10140,Level Level 1,Minimal,undefined,51,2021-22
+739,"Ada, OK",10220,Level Level 4,Low,undefined,51,2021-22
+654,"Akron, OH",10420,Level Level 8,High,undefined,51,2021-22
+454,"Alamogordo, NM",10460,Level Level 7,Moderate,undefined,51,2021-22
+260,"Albany, OR",10540,Level Level 1,Minimal,undefined,51,2021-22
+629,"Albany-Schenectady-Troy, NY",10580,Level Level 2,Minimal,undefined,51,2021-22
+326,"Albemarle, NC",10620,Level Level 4,Low,undefined,51,2021-22
+672,"Albert Lea, MN",10660,Level Level 1,Minimal,undefined,51,2021-22
+250,"Albertville, AL",10700,Level Level 8,High,undefined,51,2021-22
+165,"Albuquerque, NM",10740,Level Level 10,High,undefined,51,2021-22
+891,"Alexander City, AL",10760,Level Level 4,Low,undefined,51,2021-22
+66,"Alexandria, LA",10780,Level Level 5,Low,undefined,51,2021-22
+937,"Alexandria, MN",10820,Level Level 3,Minimal,undefined,51,2021-22
+178,"Allentown-Bethlehem-Easton, PA-NJ",10900,Level Level 8,High,undefined,51,2021-22
+783,"Alma, MI",10940,Level Level 1,Minimal,undefined,51,2021-22
+189,"Alpena, MI",10980,Level Level 2,Minimal,undefined,51,2021-22
+737,"Altoona, PA",11020,Level Level 2,Minimal,undefined,51,2021-22
+758,"Ames, IA",11180,Level Level 4,Low,undefined,51,2021-22
+557,"Amsterdam, NY",11220,Level Level 1,Minimal,undefined,51,2021-22
+671,"Anchorage, AK",11260,Level Level 10,High,undefined,51,2021-22
+645,"Angola, IN",11420,Level Level 1,Minimal,undefined,51,2021-22
+781,"Ann Arbor, MI",11460,Level Level 1,Minimal,undefined,51,2021-22
+825,"Anniston-Oxford-Jacksonville, AL",11500,Level Level 4,Low,undefined,51,2021-22
+933,"Appleton, WI",11540,Level Level 1,Minimal,undefined,51,2021-22
+74,"Arcadia, FL",11580,Level Level 3,Minimal,undefined,51,2021-22
+500,"Ardmore, OK",11620,Level Level 6,Moderate,undefined,51,2021-22
+193,"Arecibo, PR",11640,Level Level 1,Minimal,undefined,51,2021-22
+54,"Asheville, NC",11700,Level Level 10,High,undefined,51,2021-22
+860,"Ashland, OH",11740,Level Level 4,Low,undefined,51,2021-22
+880,"Ashtabula, OH",11780,Level Level 1,Minimal,undefined,51,2021-22
+26,"Astoria, OR",11820,Level Level 3,Minimal,undefined,51,2021-22
+789,"Athens, OH",11900,Level Level 7,Moderate,undefined,51,2021-22
+172,"Athens, TN",11940,Level Level 10,High,undefined,51,2021-22
+913,"Athens-Clarke County, GA",12020,Level Level 7,Moderate,undefined,51,2021-22
+39,"Atlanta-Sandy Springs-Roswell, GA",12060,Level Level 11,Very High,undefined,51,2021-22
+16,"Atlantic City-Hammonton, NJ",12100,Level Level 8,High,undefined,51,2021-22
+856,"Atmore, AL",12120,Level Level 5,Low,undefined,51,2021-22
+854,"Auburn, IN",12140,Level Level 6,Moderate,undefined,51,2021-22
+502,"Auburn, NY",12180,Level Level 6,Moderate,undefined,51,2021-22
+481,"Auburn-Opelika, AL",12220,Level Level 8,High,undefined,51,2021-22
+19,"Augusta-Richmond County, GA-SC",12260,Level Level 9,High,undefined,51,2021-22
+794,"Augusta-Waterville, ME",12300,Level Level 2,Minimal,undefined,51,2021-22
+759,"Austin, MN",12380,Level Level 1,Minimal,undefined,51,2021-22
+262,"Austin-Round Rock, TX",12420,Level Level 10,High,undefined,51,2021-22
+47,"Baltimore-Columbia-Towson, MD",12580,Level Level 10,High,undefined,51,2021-22
+756,"Bangor, ME",12620,Level Level 4,Low,undefined,51,2021-22
+14,"Bardstown, KY",12680,Level Level 4,Low,undefined,51,2021-22
+905,"Barnstable Town, MA",12700,Level Level 8,High,undefined,51,2021-22
+802,"Barre, VT",12740,Level Level 3,Minimal,undefined,51,2021-22
+587,"Batavia, NY",12860,Level Level 4,Low,undefined,51,2021-22
+205,"Batesville, AR",12900,Level Level 6,Moderate,undefined,51,2021-22
+928,"Baton Rouge, LA",12940,Level Level 7,Moderate,undefined,51,2021-22
+778,"Battle Creek, MI",12980,Level Level 5,Low,undefined,51,2021-22
+173,"Beckley, WV",13220,Level Level 1,Minimal,undefined,51,2021-22
+624,"Bedford, IN",13260,Level Level 3,Minimal,undefined,51,2021-22
+910,"Bellefontaine, OH",13340,Level Level 6,Moderate,undefined,51,2021-22
+441,"Bellingham, WA",13380,Level Level 5,Low,undefined,51,2021-22
+130,"Bend-Redmond, OR",13460,Level Level 3,Minimal,undefined,51,2021-22
+803,"Bennington, VT",13540,Level Level 2,Minimal,undefined,51,2021-22
+85,"Berlin, NH-VT",13620,Level Level 1,Minimal,undefined,51,2021-22
+377,"Big Rapids, MI",13660,Level Level 1,Minimal,undefined,51,2021-22
+808,"Big Stone Gap, VA",13720,Level Level 5,Low,undefined,51,2021-22
+378,"Billings, MT",13740,Level Level 6,Moderate,undefined,51,2021-22
+331,"Binghamton, NY",13780,Level Level 4,Low,undefined,51,2021-22
+164,"Birmingham-Hoover, AL",13820,Level Level 7,Moderate,undefined,51,2021-22
+200,"Bismarck, ND",13900,Level Level 9,High,undefined,51,2021-22
+35,"Blacksburg-Christiansburg-Radford, VA",13980,Level Level 6,Moderate,undefined,51,2021-22
+628,"Bloomington, IL",14010,Level Level 4,Low,undefined,51,2021-22
+527,"Bloomington, IN",14020,Level Level 5,Low,undefined,51,2021-22
+938,"Bloomsburg-Berwick, PA",14100,Level Level 2,Minimal,undefined,51,2021-22
+293,"Bluefield, WV-VA",14140,Level Level 3,Minimal,undefined,51,2021-22
+286,"Blytheville, AR",14180,Level Level 2,Minimal,undefined,51,2021-22
+795,"Bogalusa, LA",14220,Level Level 2,Minimal,undefined,51,2021-22
+27,"Boise City, ID",14260,Level Level 5,Low,undefined,51,2021-22
+490,"Boone, NC",14380,Level Level 3,Minimal,undefined,51,2021-22
+648,"Boston-Cambridge-Newton, MA-NH",14460,Level Level 8,High,undefined,51,2021-22
+71,"Boulder, CO",14500,Level Level 5,Low,undefined,51,2021-22
+113,"Brainerd, MN",14660,Level Level 1,Minimal,undefined,51,2021-22
+945,"Branson, MO",14700,Level Level 4,Low,undefined,51,2021-22
+359,"Bremerton-Silverdale, WA",14740,Level Level 2,Minimal,undefined,51,2021-22
+379,"Bridgeport-Stamford-Norwalk, CT",14860,Level Level 10,High,undefined,51,2021-22
+488,"Brookhaven, MS",15020,Level Level 2,Minimal,undefined,51,2021-22
+2,"Brookings, OR",15060,Level Level 3,Minimal,undefined,51,2021-22
+809,"Brookings, SD",15100,Level Level 3,Minimal,undefined,51,2021-22
+8,"Brownsville-Harlingen, TX",15180,Level Level 5,Low,undefined,51,2021-22
+774,"Brownwood, TX",15220,Level Level 9,High,undefined,51,2021-22
+187,"Brunswick, GA",15260,Level Level 3,Minimal,undefined,51,2021-22
+700,"Bucyrus, OH",15340,Level Level 4,Low,undefined,51,2021-22
+302,"Buffalo-Cheektowaga-Niagara Falls, NY",15380,Level Level 5,Low,undefined,51,2021-22
+508,"Burley, ID",15420,Level Level 5,Low,undefined,51,2021-22
+647,"Burlington, NC",15500,Level Level 4,Low,undefined,51,2021-22
+42,"Burlington-South Burlington, VT",15540,Level Level 2,Minimal,undefined,51,2021-22
+93,"Butte-Silver Bow, MT",15580,Level Level 2,Minimal,undefined,51,2021-22
+793,"Cadillac, MI",15620,Level Level 2,Minimal,undefined,51,2021-22
+474,"Calhoun, GA",15660,Level Level 9,High,undefined,51,2021-22
+129,"California-Lexington Park, MD",15680,Level Level 8,High,undefined,51,2021-22
+486,"Cambridge, MD",15700,Level Level 5,Low,undefined,51,2021-22
+274,"Camden, AR",15780,Level Level 1,Minimal,undefined,51,2021-22
+99,"Campbellsville, KY",15820,Level Level 1,Minimal,undefined,51,2021-22
+480,"Canton, IL",15900,Level Level 1,Minimal,undefined,51,2021-22
+881,"Canton-Massillon, OH",15940,Level Level 5,Low,undefined,51,2021-22
+308,"Cape Coral-Fort Myers, FL",15980,Level Level 10,High,undefined,51,2021-22
+275,"Cape Girardeau, MO-IL",16020,Level Level 1,Minimal,undefined,51,2021-22
+95,"Carbondale-Marion, IL",16060,Level Level 3,Minimal,undefined,51,2021-22
+743,"Carlsbad-Artesia, NM",16100,Level Level 7,Moderate,undefined,51,2021-22
+447,"Cedar City, UT",16260,Level Level 1,Minimal,undefined,51,2021-22
+713,"Cedar Rapids, IA",16300,Level Level 2,Minimal,undefined,51,2021-22
+463,"Cedartown, GA",16340,Level Level 10,High,undefined,51,2021-22
+614,"Celina, OH",16380,Level Level 6,Moderate,undefined,51,2021-22
+788,"Centralia, IL",16460,Level Level 1,Minimal,undefined,51,2021-22
+46,"Centralia, WA",16500,Level Level 4,Low,undefined,51,2021-22
+345,"Chambersburg-Waynesboro, PA",16540,Level Level 10,High,undefined,51,2021-22
+374,"Champaign-Urbana, IL",16580,Level Level 12,Very High,undefined,51,2021-22
+56,"Charleston, WV",16620,Level Level 1,Minimal,undefined,51,2021-22
+673,"Charleston-Mattoon, IL",16660,Level Level 1,Minimal,undefined,51,2021-22
+233,"Charleston-North Charleston, SC",16700,Level Level 6,Moderate,undefined,51,2021-22
+45,"Charlotte-Concord-Gastonia, NC-SC",16740,Level Level 7,Moderate,undefined,51,2021-22
+785,"Charlottesville, VA",16820,Level Level 5,Low,undefined,51,2021-22
+21,"Chattanooga, TN-GA",16860,Level Level 10,High,undefined,51,2021-22
+769,"Cheyenne, WY",16940,Level Level 5,Low,undefined,51,2021-22
+22,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Level Level 6,Moderate,undefined,51,2021-22
+850,"Chillicothe, OH",17060,Level Level 1,Minimal,undefined,51,2021-22
+426,"Cincinnati, OH-KY-IN",17140,Level Level 5,Low,undefined,51,2021-22
+220,"Claremont-Lebanon, NH-VT",17200,Level Level 1,Minimal,undefined,51,2021-22
+408,"Clarksburg, WV",17220,Level Level 2,Minimal,undefined,51,2021-22
+111,"Clarksville, TN-KY",17300,Level Level 8,High,undefined,51,2021-22
+926,"Cleveland, TN",17420,Level Level 5,Low,undefined,51,2021-22
+20,"Cleveland-Elyria, OH",17460,Level Level 8,High,undefined,51,2021-22
+610,"Clewiston, FL",17500,Level Level 1,Minimal,undefined,51,2021-22
+182,"Clinton, IA",17540,Level Level 1,Minimal,undefined,51,2021-22
+753,"Clovis, NM",17580,Level Level 9,High,undefined,51,2021-22
+864,"Coeur d'Alene, ID",17660,Level Level 4,Low,undefined,51,2021-22
+591,"Coffeyville, KS",17700,Level Level 4,Low,undefined,51,2021-22
+800,"Coldwater, MI",17740,Level Level 6,Moderate,undefined,51,2021-22
+25,"College Station-Bryan, TX",17780,Level Level 4,Low,undefined,51,2021-22
+855,"Colorado Springs, CO",17820,Level Level 5,Low,undefined,51,2021-22
+151,"Columbia, MO",17860,Level Level 10,High,undefined,51,2021-22
+213,"Columbia, SC",17900,Level Level 10,High,undefined,51,2021-22
+183,"Columbus, GA-AL",17980,Level Level 7,Moderate,undefined,51,2021-22
+689,"Columbus, IN",18020,Level Level 5,Low,undefined,51,2021-22
+370,"Columbus, MS",18060,Level Level 6,Moderate,undefined,51,2021-22
+528,"Columbus, NE",18100,Level Level 2,Minimal,undefined,51,2021-22
+243,"Columbus, OH",18140,Level Level 1,Minimal,undefined,51,2021-22
+540,"Concord, NH",18180,Level Level 3,Minimal,undefined,51,2021-22
+229,"Cookeville, TN",18260,Level Level 1,Minimal,undefined,51,2021-22
+483,"Coos Bay, OR",18300,Level Level 3,Minimal,undefined,51,2021-22
+840,"Cordele, GA",18380,Level Level 6,Moderate,undefined,51,2021-22
+240,"Cornelia, GA",18460,Level Level 6,Moderate,undefined,51,2021-22
+644,"Corning, NY",18500,Level Level 3,Minimal,undefined,51,2021-22
+746,"Cortland, NY",18660,Level Level 3,Minimal,undefined,51,2021-22
+226,"Corvallis, OR",18700,Level Level 3,Minimal,undefined,51,2021-22
+669,"Crawfordsville, IN",18820,Level Level 2,Minimal,undefined,51,2021-22
+23,"Crestview-Fort Walton Beach-Destin, FL",18880,Level Level 9,High,undefined,51,2021-22
+321,"Crossville, TN",18900,Level Level 1,Minimal,undefined,51,2021-22
+300,"Cullman, AL",18980,Level Level 7,Moderate,undefined,51,2021-22
+120,"Cullowhee, NC",19000,Level Level 4,Low,undefined,51,2021-22
+203,"Cumberland, MD-WV",19060,Level Level 2,Minimal,undefined,51,2021-22
+211,"Dallas-Fort Worth-Arlington, TX",19100,Level Level 2,Minimal,undefined,51,2021-22
+885,"Dalton, GA",19140,Level Level 10,High,undefined,51,2021-22
+835,"Danville, IL",19180,Level Level 4,Low,undefined,51,2021-22
+544,"Danville, KY",19220,Level Level 5,Low,undefined,51,2021-22
+285,"Danville, VA",19260,Level Level 3,Minimal,undefined,51,2021-22
+284,"Daphne-Fairhope-Foley, AL",19300,Level Level 6,Moderate,undefined,51,2021-22
+217,"Davenport-Moline-Rock Island, IA-IL",19340,Level Level 2,Minimal,undefined,51,2021-22
+517,"Dayton, OH",19380,Level Level 11,Very High,undefined,51,2021-22
+139,"Decatur, AL",19460,Level Level 3,Minimal,undefined,51,2021-22
+877,"Decatur, IL",19500,Level Level 2,Minimal,undefined,51,2021-22
+580,"Decatur, IN",19540,Level Level 1,Minimal,undefined,51,2021-22
+567,"Defiance, OH",19580,Level Level 6,Moderate,undefined,51,2021-22
+41,"Deltona-Daytona Beach-Ormond Beach, FL",19660,Level Level 9,High,undefined,51,2021-22
+472,"Denver-Aurora-Lakewood, CO",19740,Level Level 6,Moderate,undefined,51,2021-22
+397,"DeRidder, LA",19760,Level Level 3,Minimal,undefined,51,2021-22
+641,"Des Moines-West Des Moines, IA",19780,Level Level 3,Minimal,undefined,51,2021-22
+663,"Detroit-Warren-Dearborn, MI",19820,Level Level 3,Minimal,undefined,51,2021-22
+705,"Dickinson, ND",19860,Level Level 4,Low,undefined,51,2021-22
+415,"Dothan, AL",20020,Level Level 10,High,undefined,51,2021-22
+865,"Douglas, GA",20060,Level Level 6,Moderate,undefined,51,2021-22
+604,"Dover, DE",20100,Level Level 2,Minimal,undefined,51,2021-22
+410,"Dublin, GA",20140,Level Level 7,Moderate,undefined,51,2021-22
+371,"DuBois, PA",20180,Level Level 4,Low,undefined,51,2021-22
+327,"Duluth, MN-WI",20260,Level Level 1,Minimal,undefined,51,2021-22
+376,"Dunn, NC",20380,Level Level 4,Low,undefined,51,2021-22
+428,"Durango, CO",20420,Level Level 3,Minimal,undefined,51,2021-22
+346,"Durant, OK",20460,Level Level 1,Minimal,undefined,51,2021-22
+399,"Durham-Chapel Hill, NC",20500,Level Level 3,Minimal,undefined,51,2021-22
+117,"Easton, MD",20660,Level Level 2,Minimal,undefined,51,2021-22
+674,"Effingham, IL",20820,Level Level 6,Moderate,undefined,51,2021-22
+391,"El Centro, CA",20940,Level Level 7,Moderate,undefined,51,2021-22
+69,"Elizabeth City, NC",21020,Level Level 6,Moderate,undefined,51,2021-22
+341,"Elizabethtown-Fort Knox, KY",21060,Level Level 3,Minimal,undefined,51,2021-22
+859,"Elkhart-Goshen, IN",21140,Level Level 5,Low,undefined,51,2021-22
+297,"Elko, NV",21220,Level Level 1,Minimal,undefined,51,2021-22
+806,"Elmira, NY",21300,Level Level 2,Minimal,undefined,51,2021-22
+114,"El Paso, TX",21340,Level Level 5,Low,undefined,51,2021-22
+622,"Enterprise, AL",21460,Level Level 5,Low,undefined,51,2021-22
+413,"Erie, PA",21500,Level Level 5,Low,undefined,51,2021-22
+5,"Escanaba, MI",21540,Level Level 1,Minimal,undefined,51,2021-22
+382,"EspaÃ±ola, NM",21580,Level Level 6,Moderate,undefined,51,2021-22
+320,"Eufaula, AL-GA",21640,Level Level 1,Minimal,undefined,51,2021-22
+279,"Eugene, OR",21660,Level Level 4,Low,undefined,51,2021-22
+904,"Evansville, IN-KY",21780,Level Level 4,Low,undefined,51,2021-22
+849,"Fairmont, MN",21860,Level Level 1,Minimal,undefined,51,2021-22
+810,"Fairmont, WV",21900,Level Level 1,Minimal,undefined,51,2021-22
+650,"Fallon, NV",21980,Level Level 1,Minimal,undefined,51,2021-22
+697,"Fargo, ND-MN",22020,Level Level 8,High,undefined,51,2021-22
+560,"Faribault-Northfield, MN",22060,Level Level 1,Minimal,undefined,51,2021-22
+936,"Farmington, MO",22100,Level Level 2,Minimal,undefined,51,2021-22
+319,"Farmington, NM",22140,Level Level 3,Minimal,undefined,51,2021-22
+432,"Fayetteville, NC",22180,Level Level 1,Minimal,undefined,51,2021-22
+64,"Fayetteville-Springdale-Rogers, AR-MO",22220,Level Level 6,Moderate,undefined,51,2021-22
+896,"Fergus Falls, MN",22260,Level Level 1,Minimal,undefined,51,2021-22
+554,"Fernley, NV",22280,Level Level 1,Minimal,undefined,51,2021-22
+450,"Findlay, OH",22300,Level Level 1,Minimal,undefined,51,2021-22
+100,"Flagstaff, AZ",22380,Level Level 4,Low,undefined,51,2021-22
+764,"Flint, MI",22420,Level Level 2,Minimal,undefined,51,2021-22
+253,"Florence, SC",22500,Level Level 7,Moderate,undefined,51,2021-22
+373,"Florence-Muscle Shoals, AL",22520,Level Level 5,Low,undefined,51,2021-22
+175,"Forest City, NC",22580,Level Level 6,Moderate,undefined,51,2021-22
+322,"Fort Collins, CO",22660,Level Level 7,Moderate,undefined,51,2021-22
+636,"Fort Madison-Keokuk, IA-IL-MO",22800,Level Level 1,Minimal,undefined,51,2021-22
+38,"Fort Payne, AL",22840,Level Level 5,Low,undefined,51,2021-22
+304,"Fort Polk South, LA",22860,Level Level 3,Minimal,undefined,51,2021-22
+643,"Fort Smith, AR-OK",22900,Level Level 4,Low,undefined,51,2021-22
+607,"Fort Wayne, IN",23060,Level Level 1,Minimal,undefined,51,2021-22
+278,"Frankfort, IN",23140,Level Level 4,Low,undefined,51,2021-22
+420,"Frankfort, KY",23180,Level Level 1,Minimal,undefined,51,2021-22
+729,"Freeport, IL",23300,Level Level 2,Minimal,undefined,51,2021-22
+577,"Fremont, NE",23340,Level Level 4,Low,undefined,51,2021-22
+573,"Fremont, OH",23380,Level Level 7,Moderate,undefined,51,2021-22
+396,"Gadsden, AL",23460,Level Level 5,Low,undefined,51,2021-22
+471,"Gainesville, FL",23540,Level Level 8,High,undefined,51,2021-22
+484,"Gainesville, GA",23580,Level Level 7,Moderate,undefined,51,2021-22
+827,"Galesburg, IL",23660,Level Level 4,Low,undefined,51,2021-22
+812,"Gardnerville Ranchos, NV",23820,Level Level 3,Minimal,undefined,51,2021-22
+805,"Gettysburg, PA",23900,Level Level 8,High,undefined,51,2021-22
+935,"Glasgow, KY",23980,Level Level 10,High,undefined,51,2021-22
+929,"Goldsboro, NC",24140,Level Level 5,Low,undefined,51,2021-22
+58,"Grand Forks, ND-MN",24220,Level Level 4,Low,undefined,51,2021-22
+732,"Grand Island, NE",24260,Level Level 2,Minimal,undefined,51,2021-22
+395,"Grand Junction, CO",24300,Level Level 2,Minimal,undefined,51,2021-22
+436,"Grand Rapids, MN",24330,Level Level 1,Minimal,undefined,51,2021-22
+157,"Grand Rapids-Wyoming, MI",24340,Level Level 2,Minimal,undefined,51,2021-22
+118,"Grants Pass, OR",24420,Level Level 3,Minimal,undefined,51,2021-22
+768,"Greeley, CO",24540,Level Level 1,Minimal,undefined,51,2021-22
+267,"Green Bay, WI",24580,Level Level 8,High,undefined,51,2021-22
+17,"Greenfield Town, MA",24640,Level Level 4,Low,undefined,51,2021-22
+638,"Greensboro-High Point, NC",24660,Level Level 5,Low,undefined,51,2021-22
+329,"Greenville, NC",24780,Level Level 7,Moderate,undefined,51,2021-22
+526,"Greenville, OH",24820,Level Level 3,Minimal,undefined,51,2021-22
+168,"Greenville-Anderson-Mauldin, SC",24860,Level Level 9,High,undefined,51,2021-22
+306,"Guayama, PR",25020,Level Level 10,High,undefined,51,2021-22
+442,"Gulfport-Biloxi-Pascagoula, MS",25060,Level Level 4,Low,undefined,51,2021-22
+138,"Hagerstown-Martinsburg, MD-WV",25180,Level Level 8,High,undefined,51,2021-22
+156,"Hailey, ID",25200,Level Level 1,Minimal,undefined,51,2021-22
+456,"Hammond, LA",25220,Level Level 3,Minimal,undefined,51,2021-22
+653,"Harrisburg-Carlisle, PA",25420,Level Level 1,Minimal,undefined,51,2021-22
+516,"Harrison, AR",25460,Level Level 1,Minimal,undefined,51,2021-22
+281,"Harrisonburg, VA",25500,Level Level 1,Minimal,undefined,51,2021-22
+195,"Hartford-West Hartford-East Hartford, CT",25540,Level Level 3,Minimal,undefined,51,2021-22
+459,"Hastings, NE",25580,Level Level 4,Low,undefined,51,2021-22
+868,"Hattiesburg, MS",25620,Level Level 4,Low,undefined,51,2021-22
+358,"Heber, UT",25720,Level Level 3,Minimal,undefined,51,2021-22
+210,"Helena, MT",25740,Level Level 4,Low,undefined,51,2021-22
+619,"Henderson, NC",25780,Level Level 7,Moderate,undefined,51,2021-22
+658,"Hermiston-Pendleton, OR",25840,Level Level 5,Low,undefined,51,2021-22
+208,"Hickory-Lenoir-Morganton, NC",25860,Level Level 6,Moderate,undefined,51,2021-22
+752,"Hillsdale, MI",25880,Level Level 2,Minimal,undefined,51,2021-22
+354,"Hilo, HI",25900,Level Level 4,Low,undefined,51,2021-22
+170,"Hilton Head Island-Bluffton-Beaufort, SC",25940,Level Level 1,Minimal,undefined,51,2021-22
+65,"Hinesville, GA",25980,Level Level 4,Low,undefined,51,2021-22
+590,"Hobbs, NM",26020,Level Level 5,Low,undefined,51,2021-22
+801,"Holland, MI",26090,Level Level 2,Minimal,undefined,51,2021-22
+369,"Homosassa Springs, FL",26140,Level Level 5,Low,undefined,51,2021-22
+546,"Hood River, OR",26220,Level Level 1,Minimal,undefined,51,2021-22
+911,"Hot Springs, AR",26300,Level Level 4,Low,undefined,51,2021-22
+393,"Houghton, MI",26340,Level Level 2,Minimal,undefined,51,2021-22
+136,"Houma-Thibodaux, LA",26380,Level Level 8,High,undefined,51,2021-22
+844,"Houston-The Woodlands-Sugar Land, TX",26420,Level Level 1,Minimal,undefined,51,2021-22
+832,"Hudson, NY",26460,Level Level 2,Minimal,undefined,51,2021-22
+368,"Huntington, IN",26540,Level Level 2,Minimal,undefined,51,2021-22
+44,"Huntington-Ashland, WV-KY-OH",26580,Level Level 1,Minimal,undefined,51,2021-22
+81,"Huntsville, AL",26620,Level Level 4,Low,undefined,51,2021-22
+439,"Huntsville, TX",26660,Level Level 2,Minimal,undefined,51,2021-22
+620,"Hutchinson, KS",26740,Level Level 5,Low,undefined,51,2021-22
+40,"Idaho Falls, ID",26820,Level Level 4,Low,undefined,51,2021-22
+890,"Indianapolis-Carmel-Anderson, IN",26900,Level Level 7,Moderate,undefined,51,2021-22
+909,"Indianola, MS",26940,Level Level 6,Moderate,undefined,51,2021-22
+564,"Ionia, MI",26960,Level Level 1,Minimal,undefined,51,2021-22
+179,"Iron Mountain, MI-WI",27020,Level Level 2,Minimal,undefined,51,2021-22
+668,"Ithaca, NY",27060,Level Level 2,Minimal,undefined,51,2021-22
+703,"Jackson, MI",27100,Level Level 4,Low,undefined,51,2021-22
+437,"Jackson, MS",27140,Level Level 1,Minimal,undefined,51,2021-22
+862,"Jackson, OH",27160,Level Level 2,Minimal,undefined,51,2021-22
+257,"Jackson, TN",27180,Level Level 10,High,undefined,51,2021-22
+155,"Jackson, WY-ID",27220,Level Level 1,Minimal,undefined,51,2021-22
+238,"Jacksonville, FL",27260,Level Level 10,High,undefined,51,2021-22
+892,"Jacksonville, IL",27300,Level Level 5,Low,undefined,51,2021-22
+336,"Jacksonville, NC",27340,Level Level 4,Low,undefined,51,2021-22
+822,"Jamestown, ND",27420,Level Level 5,Low,undefined,51,2021-22
+390,"Jamestown-Dunkirk-Fredonia, NY",27460,Level Level 1,Minimal,undefined,51,2021-22
+529,"Janesville-Beloit, WI",27500,Level Level 2,Minimal,undefined,51,2021-22
+62,"Jasper, IN",27540,Level Level 6,Moderate,undefined,51,2021-22
+670,"Jennings, LA",27660,Level Level 1,Minimal,undefined,51,2021-22
+264,"Johnson City, TN",27740,Level Level 9,High,undefined,51,2021-22
+720,"Jonesboro, AR",27860,Level Level 7,Moderate,undefined,51,2021-22
+473,"Joplin, MO",27900,Level Level 6,Moderate,undefined,51,2021-22
+333,"Kahului-Wailuku-Lahaina, HI",27980,Level Level 1,Minimal,undefined,51,2021-22
+867,"Kalamazoo-Portage, MI",28020,Level Level 3,Minimal,undefined,51,2021-22
+918,"Kalispell, MT",28060,Level Level 3,Minimal,undefined,51,2021-22
+68,"Kansas City, MO-KS",28140,Level Level 7,Moderate,undefined,51,2021-22
+816,"Kearney, NE",28260,Level Level 2,Minimal,undefined,51,2021-22
+804,"Kendallville, IN",28340,Level Level 3,Minimal,undefined,51,2021-22
+325,"Kennewick-Richland, WA",28420,Level Level 6,Moderate,undefined,51,2021-22
+749,"Key West, FL",28580,Level Level 6,Moderate,undefined,51,2021-22
+771,"Kill Devil Hills, NC",28620,Level Level 3,Minimal,undefined,51,2021-22
+372,"Killeen-Temple, TX",28660,Level Level 4,Low,undefined,51,2021-22
+247,"Kingsport-Bristol-Bristol, TN-VA",28700,Level Level 8,High,undefined,51,2021-22
+207,"Kingston, NY",28740,Level Level 5,Low,undefined,51,2021-22
+760,"Kinston, NC",28820,Level Level 4,Low,undefined,51,2021-22
+206,"Klamath Falls, OR",28900,Level Level 2,Minimal,undefined,51,2021-22
+199,"Knoxville, TN",28940,Level Level 6,Moderate,undefined,51,2021-22
+348,"Kokomo, IN",29020,Level Level 6,Moderate,undefined,51,2021-22
+202,"La Crosse-Onalaska, WI-MN",29100,Level Level 3,Minimal,undefined,51,2021-22
+501,"Lafayette, LA",29180,Level Level 8,High,undefined,51,2021-22
+367,"Lafayette-West Lafayette, IN",29200,Level Level 6,Moderate,undefined,51,2021-22
+818,"La Grande, OR",29260,Level Level 1,Minimal,undefined,51,2021-22
+734,"LaGrange, GA",29300,Level Level 10,High,undefined,51,2021-22
+455,"Lake Charles, LA",29340,Level Level 4,Low,undefined,51,2021-22
+381,"Lake City, FL",29380,Level Level 5,Low,undefined,51,2021-22
+134,"Lake Havasu City-Kingman, AZ",29420,Level Level 3,Minimal,undefined,51,2021-22
+330,"Lakeland-Winter Haven, FL",29460,Level Level 7,Moderate,undefined,51,2021-22
+12,"Lancaster, PA",29540,Level Level 6,Moderate,undefined,51,2021-22
+679,"Lansing-East Lansing, MI",29620,Level Level 1,Minimal,undefined,51,2021-22
+11,"Laredo, TX",29700,Level Level 2,Minimal,undefined,51,2021-22
+725,"Las Cruces, NM",29740,Level Level 6,Moderate,undefined,51,2021-22
+920,"Las Vegas-Henderson-Paradise, NV",29820,Level Level 10,High,undefined,51,2021-22
+453,"Laurel, MS",29860,Level Level 1,Minimal,undefined,51,2021-22
+375,"Laurinburg, NC",29900,Level Level 5,Low,undefined,51,2021-22
+510,"Lawrence, KS",29940,Level Level 3,Minimal,undefined,51,2021-22
+701,"Lawrenceburg, TN",29980,Level Level 1,Minimal,undefined,51,2021-22
+719,"Lebanon, MO",30060,Level Level 5,Low,undefined,51,2021-22
+908,"Lebanon, PA",30140,Level Level 7,Moderate,undefined,51,2021-22
+160,"Lewiston, ID-WA",30300,Level Level 2,Minimal,undefined,51,2021-22
+608,"Lewiston-Auburn, ME",30340,Level Level 4,Low,undefined,51,2021-22
+747,"Lexington, NE",30420,Level Level 1,Minimal,undefined,51,2021-22
+656,"Lexington-Fayette, KY",30460,Level Level 4,Low,undefined,51,2021-22
+452,"Lima, OH",30620,Level Level 1,Minimal,undefined,51,2021-22
+592,"Lincoln, IL",30660,Level Level 1,Minimal,undefined,51,2021-22
+634,"Lincoln, NE",30700,Level Level 6,Moderate,undefined,51,2021-22
+48,"Little Rock-North Little Rock-Conway, AR",30780,Level Level 5,Low,undefined,51,2021-22
+657,"Logan, UT-ID",30860,Level Level 7,Moderate,undefined,51,2021-22
+287,"Logan, WV",30880,Level Level 1,Minimal,undefined,51,2021-22
+305,"London, KY",30940,Level Level 7,Moderate,undefined,51,2021-22
+241,"Longview, TX",30980,Level Level 3,Minimal,undefined,51,2021-22
+140,"Longview, WA",31020,Level Level 2,Minimal,undefined,51,2021-22
+741,"Los Alamos, NM",31060,Level Level 2,Minimal,undefined,51,2021-22
+223,"Los Angeles-Long Beach-Anaheim, CA",31080,Level Level 7,Moderate,undefined,51,2021-22
+914,"Louisville/Jefferson County, KY-IN",31140,Level Level 6,Moderate,undefined,51,2021-22
+736,"Ludington, MI",31220,Level Level 1,Minimal,undefined,51,2021-22
+633,"Lumberton, NC",31300,Level Level 6,Moderate,undefined,51,2021-22
+221,"Lynchburg, VA",31340,Level Level 8,High,undefined,51,2021-22
+550,"Macomb, IL",31380,Level Level 4,Low,undefined,51,2021-22
+231,"Macon-Bibb County, GA",31420,Level Level 9,High,undefined,51,2021-22
+110,"Madison, WI",31540,Level Level 3,Minimal,undefined,51,2021-22
+414,"Madisonville, KY",31580,Level Level 2,Minimal,undefined,51,2021-22
+726,"Magnolia, AR",31620,Level Level 1,Minimal,undefined,51,2021-22
+594,"Malone, NY",31660,Level Level 2,Minimal,undefined,51,2021-22
+355,"Mankato-North Mankato, MN",31860,Level Level 1,Minimal,undefined,51,2021-22
+503,"Mansfield, OH",31900,Level Level 7,Moderate,undefined,51,2021-22
+347,"Marietta, OH",31930,Level Level 4,Low,undefined,51,2021-22
+116,"Marion, IN",31980,Level Level 4,Low,undefined,51,2021-22
+194,"Marquette, MI",32100,Level Level 2,Minimal,undefined,51,2021-22
+665,"Martinsville, VA",32300,Level Level 2,Minimal,undefined,51,2021-22
+532,"Mayfield, KY",32460,Level Level 3,Minimal,undefined,51,2021-22
+777,"Maysville, KY",32500,Level Level 6,Moderate,undefined,51,2021-22
+754,"McAlester, OK",32540,Level Level 2,Minimal,undefined,51,2021-22
+423,"McAllen-Edinburg-Mission, TX",32580,Level Level 10,High,undefined,51,2021-22
+738,"McComb, MS",32620,Level Level 2,Minimal,undefined,51,2021-22
+494,"McMinnville, TN",32660,Level Level 1,Minimal,undefined,51,2021-22
+618,"Meadville, PA",32740,Level Level 3,Minimal,undefined,51,2021-22
+469,"Medford, OR",32780,Level Level 3,Minimal,undefined,51,2021-22
+216,"Memphis, TN-MS-AR",32820,Level Level 10,High,undefined,51,2021-22
+922,"Miami-Fort Lauderdale-West Palm Beach, FL",33100,Level Level 10,High,undefined,51,2021-22
+676,"Michigan City-La Porte, IN",33140,Level Level 4,Low,undefined,51,2021-22
+593,"Midland, MI",33220,Level Level 4,Low,undefined,51,2021-22
+248,"Milledgeville, GA",33300,Level Level 5,Low,undefined,51,2021-22
+159,"Milwaukee-Waukesha-West Allis, WI",33340,Level Level 5,Low,undefined,51,2021-22
+902,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Level Level 10,High,undefined,51,2021-22
+489,"Minot, ND",33500,Level Level 7,Moderate,undefined,51,2021-22
+4,"Missoula, MT",33540,Level Level 1,Minimal,undefined,51,2021-22
+524,"Mitchell, SD",33580,Level Level 1,Minimal,undefined,51,2021-22
+224,"Mobile, AL",33660,Level Level 3,Minimal,undefined,51,2021-22
+446,"Modesto, CA",33700,Level Level 2,Minimal,undefined,51,2021-22
+400,"Monroe, LA",33740,Level Level 6,Moderate,undefined,51,2021-22
+142,"Monroe, MI",33780,Level Level 1,Minimal,undefined,51,2021-22
+167,"Montgomery, AL",33860,Level Level 10,High,undefined,51,2021-22
+76,"Morehead City, NC",33980,Level Level 5,Low,undefined,51,2021-22
+353,"Morgan City, LA",34020,Level Level 3,Minimal,undefined,51,2021-22
+923,"Morristown, TN",34100,Level Level 8,High,undefined,51,2021-22
+574,"Moscow, ID",34140,Level Level 4,Low,undefined,51,2021-22
+351,"Moses Lake, WA",34180,Level Level 2,Minimal,undefined,51,2021-22
+934,"Mountain Home, AR",34260,Level Level 4,Low,undefined,51,2021-22
+239,"Mountain Home, ID",34300,Level Level 4,Low,undefined,51,2021-22
+611,"Mount Airy, NC",34340,Level Level 3,Minimal,undefined,51,2021-22
+863,"Mount Pleasant, MI",34380,Level Level 5,Low,undefined,51,2021-22
+871,"Mount Vernon, IL",34500,Level Level 5,Low,undefined,51,2021-22
+836,"Mount Vernon, OH",34540,Level Level 2,Minimal,undefined,51,2021-22
+579,"Mount Vernon-Anacortes, WA",34580,Level Level 3,Minimal,undefined,51,2021-22
+561,"Muncie, IN",34620,Level Level 5,Low,undefined,51,2021-22
+875,"Murray, KY",34660,Level Level 4,Low,undefined,51,2021-22
+601,"Muscatine, IA",34700,Level Level 1,Minimal,undefined,51,2021-22
+578,"Muskegon, MI",34740,Level Level 3,Minimal,undefined,51,2021-22
+383,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",34820,Level Level 10,High,undefined,51,2021-22
+824,"Naples-Immokalee-Marco Island, FL",34940,Level Level 10,High,undefined,51,2021-22
+209,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Level Level 10,High,undefined,51,2021-22
+356,"Natchez, MS-LA",35020,Level Level 5,Low,undefined,51,2021-22
+384,"Natchitoches, LA",35060,Level Level 4,Low,undefined,51,2021-22
+283,"New Bern, NC",35100,Level Level 3,Minimal,undefined,51,2021-22
+406,"Newberry, SC",35140,Level Level 6,Moderate,undefined,51,2021-22
+712,"New Castle, IN",35220,Level Level 2,Minimal,undefined,51,2021-22
+276,"New Haven-Milford, CT",35300,Level Level 8,High,undefined,51,2021-22
+505,"New Orleans-Metairie, LA",35380,Level Level 10,High,undefined,51,2021-22
+539,"New Philadelphia-Dover, OH",35420,Level Level 1,Minimal,undefined,51,2021-22
+530,"Newport, OR",35440,Level Level 1,Minimal,undefined,51,2021-22
+323,"Newport, TN",35460,Level Level 4,Low,undefined,51,2021-22
+197,"New York-Newark-Jersey City, NY-NJ-PA",35620,Level Level 10,High,undefined,51,2021-22
+901,"Niles-Benton Harbor, MI",35660,Level Level 4,Low,undefined,51,2021-22
+873,"Nogales, AZ",35700,Level Level 2,Minimal,undefined,51,2021-22
+858,"Norfolk, NE",35740,Level Level 1,Minimal,undefined,51,2021-22
+514,"North Platte, NE",35820,Level Level 2,Minimal,undefined,51,2021-22
+817,"North Port-Sarasota-Bradenton, FL",35840,Level Level 5,Low,undefined,51,2021-22
+588,"North Vernon, IN",35860,Level Level 4,Low,undefined,51,2021-22
+162,"North Wilkesboro, NC",35900,Level Level 4,Low,undefined,51,2021-22
+814,"Norwalk, OH",35940,Level Level 2,Minimal,undefined,51,2021-22
+924,"Norwich-New London, CT",35980,Level Level 7,Moderate,undefined,51,2021-22
+143,"Ocala, FL",36100,Level Level 8,High,undefined,51,2021-22
+256,"Ocean City, NJ",36140,Level Level 7,Moderate,undefined,51,2021-22
+235,"Ogden-Clearfield, UT",36260,Level Level 8,High,undefined,51,2021-22
+637,"Ogdensburg-Massena, NY",36300,Level Level 3,Minimal,undefined,51,2021-22
+581,"Oil City, PA",36340,Level Level 2,Minimal,undefined,51,2021-22
+402,"Okeechobee, FL",36380,Level Level 3,Minimal,undefined,51,2021-22
+192,"Oklahoma City, OK",36420,Level Level 1,Minimal,undefined,51,2021-22
+125,"Olean, NY",36460,Level Level 2,Minimal,undefined,51,2021-22
+15,"Olympia-Tumwater, WA",36500,Level Level 1,Minimal,undefined,51,2021-22
+181,"Omaha-Council Bluffs, NE-IA",36540,Level Level 9,High,undefined,51,2021-22
+232,"Oneonta, NY",36580,Level Level 3,Minimal,undefined,51,2021-22
+92,"Ontario, OR-ID",36620,Level Level 4,Low,undefined,51,2021-22
+98,"Opelousas, LA",36660,Level Level 5,Low,undefined,51,2021-22
+412,"Orangeburg, SC",36700,Level Level 4,Low,undefined,51,2021-22
+903,"Orlando-Kissimmee-Sanford, FL",36740,Level Level 11,Very High,undefined,51,2021-22
+870,"Oshkosh-Neenah, WI",36780,Level Level 3,Minimal,undefined,51,2021-22
+941,"Othello, WA",36830,Level Level 1,Minimal,undefined,51,2021-22
+470,"Ottawa-Peru, IL",36860,Level Level 2,Minimal,undefined,51,2021-22
+815,"Owatonna, MN",36940,Level Level 1,Minimal,undefined,51,2021-22
+171,"Owensboro, KY",36980,Level Level 5,Low,undefined,51,2021-22
+709,"Oxford, NC",37080,Level Level 6,Moderate,undefined,51,2021-22
+834,"Ozark, AL",37120,Level Level 3,Minimal,undefined,51,2021-22
+916,"Paducah, KY-IL",37140,Level Level 5,Low,undefined,51,2021-22
+706,"Pahrump, NV",37220,Level Level 1,Minimal,undefined,51,2021-22
+316,"Palatka, FL",37260,Level Level 6,Moderate,undefined,51,2021-22
+394,"Palm Bay-Melbourne-Titusville, FL",37340,Level Level 8,High,undefined,51,2021-22
+311,"Panama City, FL",37460,Level Level 4,Low,undefined,51,2021-22
+565,"Paragould, AR",37500,Level Level 5,Low,undefined,51,2021-22
+919,"Paris, TN",37540,Level Level 1,Minimal,undefined,51,2021-22
+266,"Parkersburg-Vienna, WV",37620,Level Level 1,Minimal,undefined,51,2021-22
+714,"Parsons, KS",37660,Level Level 1,Minimal,undefined,51,2021-22
+180,"Payson, AZ",37740,Level Level 3,Minimal,undefined,51,2021-22
+334,"Pecos, TX",37780,Level Level 6,Moderate,undefined,51,2021-22
+104,"Pensacola-Ferry Pass-Brent, FL",37860,Level Level 10,High,undefined,51,2021-22
+707,"Peoria, IL",37900,Level Level 5,Low,undefined,51,2021-22
+401,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,Level Level 8,High,undefined,51,2021-22
+60,"Phoenix-Mesa-Scottsdale, AZ",38060,Level Level 1,Minimal,undefined,51,2021-22
+77,"Picayune, MS",38100,Level Level 1,Minimal,undefined,51,2021-22
+236,"Pierre, SD",38180,Level Level 2,Minimal,undefined,51,2021-22
+433,"Pine Bluff, AR",38220,Level Level 3,Minimal,undefined,51,2021-22
+915,"Pinehurst-Southern Pines, NC",38240,Level Level 1,Minimal,undefined,51,2021-22
+784,"Pittsburg, KS",38260,Level Level 1,Minimal,undefined,51,2021-22
+33,"Pittsburgh, PA",38300,Level Level 4,Low,undefined,51,2021-22
+839,"Pittsfield, MA",38340,Level Level 2,Minimal,undefined,51,2021-22
+1,"Platteville, WI",38420,Level Level 1,Minimal,undefined,51,2021-22
+89,"Plattsburgh, NY",38460,Level Level 3,Minimal,undefined,51,2021-22
+462,"Plymouth, IN",38500,Level Level 4,Low,undefined,51,2021-22
+387,"Pocatello, ID",38540,Level Level 2,Minimal,undefined,51,2021-22
+603,"Point Pleasant, WV-OH",38580,Level Level 7,Moderate,undefined,51,2021-22
+731,"Ponca City, OK",38620,Level Level 6,Moderate,undefined,51,2021-22
+744,"Pontiac, IL",38700,Level Level 2,Minimal,undefined,51,2021-22
+265,"Poplar Bluff, MO",38740,Level Level 6,Moderate,undefined,51,2021-22
+103,"Port Angeles, WA",38820,Level Level 1,Minimal,undefined,51,2021-22
+82,"Port Clinton, OH",38840,Level Level 8,High,undefined,51,2021-22
+659,"Portland-South Portland, ME",38860,Level Level 6,Moderate,undefined,51,2021-22
+198,"Portland-Vancouver-Hillsboro, OR-WA",38900,Level Level 4,Low,undefined,51,2021-22
+742,"Port St. Lucie, FL",38940,Level Level 7,Moderate,undefined,51,2021-22
+522,"Pottsville, PA",39060,Level Level 4,Low,undefined,51,2021-22
+135,"Prescott, AZ",39140,Level Level 6,Moderate,undefined,51,2021-22
+392,"Price, UT",39220,Level Level 2,Minimal,undefined,51,2021-22
+651,"Prineville, OR",39260,Level Level 2,Minimal,undefined,51,2021-22
+435,"Providence-Warwick, RI-MA",39300,Level Level 5,Low,undefined,51,2021-22
+927,"Provo-Orem, UT",39340,Level Level 7,Moderate,undefined,51,2021-22
+467,"Pueblo, CO",39380,Level Level 1,Minimal,undefined,51,2021-22
+3,"Pullman, WA",39420,Level Level 2,Minimal,undefined,51,2021-22
+599,"Punta Gorda, FL",39460,Level Level 7,Moderate,undefined,51,2021-22
+686,"Quincy, IL-MO",39500,Level Level 1,Minimal,undefined,51,2021-22
+562,"Racine, WI",39540,Level Level 5,Low,undefined,51,2021-22
+204,"Raleigh, NC",39580,Level Level 7,Moderate,undefined,51,2021-22
+298,"Rapid City, SD",39660,Level Level 10,High,undefined,51,2021-22
+520,"Reading, PA",39740,Level Level 1,Minimal,undefined,51,2021-22
+161,"Redding, CA",39820,Level Level 1,Minimal,undefined,51,2021-22
+721,"Red Wing, MN",39860,Level Level 1,Minimal,undefined,51,2021-22
+786,"Reno, NV",39900,Level Level 5,Low,undefined,51,2021-22
+429,"Rexburg, ID",39940,Level Level 3,Minimal,undefined,51,2021-22
+883,"Richmond, IN",39980,Level Level 6,Moderate,undefined,51,2021-22
+921,"Richmond, VA",40060,Level Level 10,High,undefined,51,2021-22
+79,"Richmond-Berea, KY",40080,Level Level 6,Moderate,undefined,51,2021-22
+343,"Rio Grande City, TX",40100,Level Level 2,Minimal,undefined,51,2021-22
+273,"Riverside-San Bernardino-Ontario, CA",40140,Level Level 6,Moderate,undefined,51,2021-22
+366,"Riverton, WY",40180,Level Level 1,Minimal,undefined,51,2021-22
+34,"Roanoke, VA",40220,Level Level 6,Moderate,undefined,51,2021-22
+225,"Roanoke Rapids, NC",40260,Level Level 2,Minimal,undefined,51,2021-22
+765,"Rochelle, IL",40300,Level Level 1,Minimal,undefined,51,2021-22
+201,"Rochester, MN",40340,Level Level 1,Minimal,undefined,51,2021-22
+101,"Rochester, NY",40380,Level Level 1,Minimal,undefined,51,2021-22
+763,"Rockford, IL",40420,Level Level 3,Minimal,undefined,51,2021-22
+154,"Rockingham, NC",40460,Level Level 1,Minimal,undefined,51,2021-22
+694,"Rock Springs, WY",40540,Level Level 5,Low,undefined,51,2021-22
+339,"Rocky Mount, NC",40580,Level Level 5,Low,undefined,51,2021-22
+365,"Rome, GA",40660,Level Level 7,Moderate,undefined,51,2021-22
+294,"Roseburg, OR",40700,Level Level 2,Minimal,undefined,51,2021-22
+872,"Roswell, NM",40740,Level Level 5,Low,undefined,51,2021-22
+538,"Ruidoso, NM",40760,Level Level 8,High,undefined,51,2021-22
+740,"Russellville, AR",40780,Level Level 1,Minimal,undefined,51,2021-22
+487,"Ruston, LA",40820,Level Level 6,Moderate,undefined,51,2021-22
+939,"Rutland, VT",40860,Level Level 4,Low,undefined,51,2021-22
+55,"Sacramento--Roseville--Arden-Arcade, CA",40900,Level Level 6,Moderate,undefined,51,2021-22
+576,"Saginaw, MI",40980,Level Level 1,Minimal,undefined,51,2021-22
+119,"St. Cloud, MN",41060,Level Level 13,Very High,undefined,51,2021-22
+364,"St. Louis, MO-IL",41180,Level Level 9,High,undefined,51,2021-22
+290,"St. Marys, GA",41220,Level Level 6,Moderate,undefined,51,2021-22
+543,"St. Marys, PA",41260,Level Level 3,Minimal,undefined,51,2021-22
+831,"Salem, OH",41400,Level Level 2,Minimal,undefined,51,2021-22
+242,"Salem, OR",41420,Level Level 3,Minimal,undefined,51,2021-22
+848,"Salina, KS",41460,Level Level 6,Moderate,undefined,51,2021-22
+427,"Salisbury, MD-DE",41540,Level Level 2,Minimal,undefined,51,2021-22
+295,"Salt Lake City, UT",41620,Level Level 4,Low,undefined,51,2021-22
+122,"San Angelo, TX",41660,Level Level 2,Minimal,undefined,51,2021-22
+29,"San Antonio-New Braunfels, TX",41700,Level Level 9,High,undefined,51,2021-22
+230,"San Diego-Carlsbad, CA",41740,Level Level 2,Minimal,undefined,51,2021-22
+443,"Sandusky, OH",41780,Level Level 3,Minimal,undefined,51,2021-22
+315,"Sanford, NC",41820,Level Level 1,Minimal,undefined,51,2021-22
+72,"San Francisco-Oakland-Hayward, CA",41860,Level Level 1,Minimal,undefined,51,2021-22
+63,"San GermÃ¡n, PR",41900,Level Level 2,Minimal,undefined,51,2021-22
+109,"San Jose-Sunnyvale-Santa Clara, CA",41940,Level Level 4,Low,undefined,51,2021-22
+449,"San Juan-Carolina-Caguas, PR",41980,Level Level 10,High,undefined,51,2021-22
+363,"Santa Cruz-Watsonville, CA",42100,Level Level 8,High,undefined,51,2021-22
+595,"Santa Fe, NM",42140,Level Level 6,Moderate,undefined,51,2021-22
+215,"Santa Maria-Santa Barbara, CA",42200,Level Level 1,Minimal,undefined,51,2021-22
+677,"Santa Rosa, CA",42220,Level Level 1,Minimal,undefined,51,2021-22
+332,"Savannah, GA",42340,Level Level 9,High,undefined,51,2021-22
+838,"Sayre, PA",42380,Level Level 4,Low,undefined,51,2021-22
+666,"Scottsbluff, NE",42420,Level Level 1,Minimal,undefined,51,2021-22
+96,"Scottsboro, AL",42460,Level Level 6,Moderate,undefined,51,2021-22
+819,"Scranton--Wilkes-Barre--Hazleton, PA",42540,Level Level 3,Minimal,undefined,51,2021-22
+797,"Searcy, AR",42620,Level Level 3,Minimal,undefined,51,2021-22
+861,"Seattle-Tacoma-Bellevue, WA",42660,Level Level 4,Low,undefined,51,2021-22
+828,"Sebastian-Vero Beach, FL",42680,Level Level 8,High,undefined,51,2021-22
+184,"Sebring, FL",42700,Level Level 4,Low,undefined,51,2021-22
+842,"Sedalia, MO",42740,Level Level 5,Low,undefined,51,2021-22
+112,"Selma, AL",42820,Level Level 8,High,undefined,51,2021-22
+444,"Seneca, SC",42860,Level Level 7,Moderate,undefined,51,2021-22
+144,"Sevierville, TN",42940,Level Level 10,High,undefined,51,2021-22
+724,"Shelby, NC",43140,Level Level 6,Moderate,undefined,51,2021-22
+430,"Shelbyville, TN",43180,Level Level 1,Minimal,undefined,51,2021-22
+917,"Sheridan, WY",43260,Level Level 4,Low,undefined,51,2021-22
+639,"Sherman-Denison, TX",43300,Level Level 8,High,undefined,51,2021-22
+684,"Show Low, AZ",43320,Level Level 6,Moderate,undefined,51,2021-22
+107,"Shreveport-Bossier City, LA",43340,Level Level 9,High,undefined,51,2021-22
+612,"Sidney, OH",43380,Level Level 3,Minimal,undefined,51,2021-22
+80,"Silver City, NM",43500,Level Level 2,Minimal,undefined,51,2021-22
+652,"Sioux City, IA-NE-SD",43580,Level Level 6,Moderate,undefined,51,2021-22
+31,"Sioux Falls, SD",43620,Level Level 2,Minimal,undefined,51,2021-22
+571,"Somerset, KY",43700,Level Level 5,Low,undefined,51,2021-22
+309,"Somerset, PA",43740,Level Level 1,Minimal,undefined,51,2021-22
+531,"South Bend-Mishawaka, IN-MI",43780,Level Level 8,High,undefined,51,2021-22
+307,"Spartanburg, SC",43900,Level Level 5,Low,undefined,51,2021-22
+683,"Spearfish, SD",43940,Level Level 4,Low,undefined,51,2021-22
+440,"Spokane-Spokane Valley, WA",44060,Level Level 1,Minimal,undefined,51,2021-22
+83,"Springfield, IL",44100,Level Level 5,Low,undefined,51,2021-22
+646,"Springfield, MA",44140,Level Level 7,Moderate,undefined,51,2021-22
+478,"Springfield, MO",44180,Level Level 9,High,undefined,51,2021-22
+511,"Springfield, OH",44220,Level Level 1,Minimal,undefined,51,2021-22
+751,"Starkville, MS",44260,Level Level 7,Moderate,undefined,51,2021-22
+146,"State College, PA",44300,Level Level 5,Low,undefined,51,2021-22
+542,"Statesboro, GA",44340,Level Level 7,Moderate,undefined,51,2021-22
+664,"Staunton-Waynesboro, VA",44420,Level Level 8,High,undefined,51,2021-22
+852,"Sterling, IL",44580,Level Level 4,Low,undefined,51,2021-22
+445,"Stockton-Lodi, CA",44700,Level Level 1,Minimal,undefined,51,2021-22
+681,"Sturgis, MI",44780,Level Level 3,Minimal,undefined,51,2021-22
+313,"Summit Park, UT",44920,Level Level 1,Minimal,undefined,51,2021-22
+925,"Sumter, SC",44940,Level Level 1,Minimal,undefined,51,2021-22
+282,"Sunbury, PA",44980,Level Level 4,Low,undefined,51,2021-22
+49,"Syracuse, NY",45060,Level Level 6,Moderate,undefined,51,2021-22
+770,"Tahlequah, OK",45140,Level Level 12,Very High,undefined,51,2021-22
+263,"Talladega-Sylacauga, AL",45180,Level Level 6,Moderate,undefined,51,2021-22
+191,"Tallahassee, FL",45220,Level Level 9,High,undefined,51,2021-22
+649,"Tampa-St. Petersburg-Clearwater, FL",45300,Level Level 7,Moderate,undefined,51,2021-22
+246,"Taos, NM",45340,Level Level 2,Minimal,undefined,51,2021-22
+882,"Taylorville, IL",45380,Level Level 3,Minimal,undefined,51,2021-22
+403,"Terre Haute, IN",45460,Level Level 4,Low,undefined,51,2021-22
+50,"Texarkana, TX-AR",45500,Level Level 3,Minimal,undefined,51,2021-22
+380,"The Dalles, OR",45520,Level Level 1,Minimal,undefined,51,2021-22
+91,"The Villages, FL",45540,Level Level 3,Minimal,undefined,51,2021-22
+940,"Thomasville, GA",45620,Level Level 4,Low,undefined,51,2021-22
+605,"Tiffin, OH",45660,Level Level 5,Low,undefined,51,2021-22
+780,"Tifton, GA",45700,Level Level 8,High,undefined,51,2021-22
+757,"Toccoa, GA",45740,Level Level 3,Minimal,undefined,51,2021-22
+61,"Toledo, OH",45780,Level Level 10,High,undefined,51,2021-22
+234,"Topeka, KS",45820,Level Level 6,Moderate,undefined,51,2021-22
+886,"Torrington, CT",45860,Level Level 3,Minimal,undefined,51,2021-22
+24,"Traverse City, MI",45900,Level Level 3,Minimal,undefined,51,2021-22
+9,"Trenton, NJ",45940,Level Level 10,High,undefined,51,2021-22
+268,"Troy, AL",45980,Level Level 1,Minimal,undefined,51,2021-22
+150,"Tulsa, OK",46140,Level Level 1,Minimal,undefined,51,2021-22
+547,"Tupelo, MS",46180,Level Level 3,Minimal,undefined,51,2021-22
+30,"Tuscaloosa, AL",46220,Level Level 5,Low,undefined,51,2021-22
+214,"Twin Falls, ID",46300,Level Level 7,Moderate,undefined,51,2021-22
+687,"Urbana, OH",46500,Level Level 5,Low,undefined,51,2021-22
+218,"Urban Honolulu, HI",46520,Level Level 1,Minimal,undefined,51,2021-22
+249,"Utica-Rome, NY",46540,Level Level 6,Moderate,undefined,51,2021-22
+767,"Valdosta, GA",46660,Level Level 7,Moderate,undefined,51,2021-22
+407,"Vallejo-Fairfield, CA",46700,Level Level 1,Minimal,undefined,51,2021-22
+460,"Valley, AL",46740,Level Level 3,Minimal,undefined,51,2021-22
+711,"Vermillion, SD",46820,Level Level 1,Minimal,undefined,51,2021-22
+409,"Victoria, TX",47020,Level Level 6,Moderate,undefined,51,2021-22
+52,"Vidalia, GA",47080,Level Level 4,Low,undefined,51,2021-22
+106,"Vincennes, IN",47180,Level Level 5,Low,undefined,51,2021-22
+133,"Vineland-Bridgeton, NJ",47220,Level Level 2,Minimal,undefined,51,2021-22
+87,"Vineyard Haven, MA",47240,Level Level 4,Low,undefined,51,2021-22
+422,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Level Level 10,High,undefined,51,2021-22
+606,"Wabash, IN",47340,Level Level 4,Low,undefined,51,2021-22
+642,"Waco, TX",47380,Level Level 1,Minimal,undefined,51,2021-22
+277,"Walla Walla, WA",47460,Level Level 2,Minimal,undefined,51,2021-22
+291,"Warner Robins, GA",47580,Level Level 11,Very High,undefined,51,2021-22
+930,"Warren, PA",47620,Level Level 2,Minimal,undefined,51,2021-22
+566,"Warsaw, IN",47700,Level Level 1,Minimal,undefined,51,2021-22
+149,"Washington, NC",47820,Level Level 3,Minimal,undefined,51,2021-22
+185,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Level Level 10,High,undefined,51,2021-22
+635,"Washington Court House, OH",47920,Level Level 6,Moderate,undefined,51,2021-22
+691,"Waterloo-Cedar Falls, IA",47940,Level Level 1,Minimal,undefined,51,2021-22
+790,"Watertown, SD",47980,Level Level 2,Minimal,undefined,51,2021-22
+405,"Watertown-Fort Drum, NY",48060,Level Level 4,Low,undefined,51,2021-22
+907,"Wauchula, FL",48100,Level Level 4,Low,undefined,51,2021-22
+553,"Wausau, WI",48140,Level Level 3,Minimal,undefined,51,2021-22
+857,"Weirton-Steubenville, WV-OH",48260,Level Level 1,Minimal,undefined,51,2021-22
+314,"Wenatchee, WA",48300,Level Level 3,Minimal,undefined,51,2021-22
+851,"West Plains, MO",48460,Level Level 3,Minimal,undefined,51,2021-22
+900,"Wheeling, WV-OH",48540,Level Level 2,Minimal,undefined,51,2021-22
+735,"Wichita, KS",48620,Level Level 9,High,undefined,51,2021-22
+906,"Williamsport, PA",48700,Level Level 1,Minimal,undefined,51,2021-22
+296,"Williston, ND",48780,Level Level 3,Minimal,undefined,51,2021-22
+461,"Willmar, MN",48820,Level Level 8,High,undefined,51,2021-22
+328,"Wilmington, NC",48900,Level Level 7,Moderate,undefined,51,2021-22
+796,"Wilmington, OH",48940,Level Level 6,Moderate,undefined,51,2021-22
+548,"Wilson, NC",48980,Level Level 6,Moderate,undefined,51,2021-22
+271,"Winchester, VA-WV",49020,Level Level 7,Moderate,undefined,51,2021-22
+43,"Winston-Salem, NC",49180,Level Level 5,Low,undefined,51,2021-22
+833,"Wisconsin Rapids-Marshfield, WI",49220,Level Level 2,Minimal,undefined,51,2021-22
+504,"Wooster, OH",49300,Level Level 3,Minimal,undefined,51,2021-22
+152,"Worcester, MA-CT",49340,Level Level 10,High,undefined,51,2021-22
+288,"Yakima, WA",49420,Level Level 2,Minimal,undefined,51,2021-22
+299,"York-Hanover, PA",49620,Level Level 5,Low,undefined,51,2021-22
+495,"Youngstown-Warren-Boardman, OH-PA",49660,Level Level 7,Moderate,undefined,51,2021-22
+108,"Yuba City, CA",49700,Level Level 1,Minimal,undefined,51,2021-22
+59,"Yuma, AZ",49740,Level Level 3,Minimal,undefined,51,2021-22
